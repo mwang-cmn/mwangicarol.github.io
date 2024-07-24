@@ -1,8 +1,9 @@
 # Power BI projects
-1. [Toy Store Analysis](https://github.com/mwang-cmn/Toy-Store-Dashboard)
-2. [Healthcare Provider Dashboard](https://github.com/mwang-cmn/Healthcare-Provider-Dashboard)
-3. [HR Dashboard](https://github.com/mwang-cmn/HR-Dashboard-and-Notebook)
-4. [Emergency Room - Hospital Dashboard](https://github.com/mwang-cmn/Emergency-Room-Hospital-Dashboard)
+1. [Retail Sales Data Analysis](https://github.com/mwang-cmn/Retail-Sales-Analysis)
+2. [Toy Store Analysis](https://github.com/mwang-cmn/Toy-Store-Dashboard)
+3. [Healthcare Provider Dashboard](https://github.com/mwang-cmn/Healthcare-Provider-Dashboard)
+4. [HR Dashboard](https://github.com/mwang-cmn/HR-Dashboard-and-Notebook)
+5. [Emergency Room - Hospital Dashboard](https://github.com/mwang-cmn/Emergency-Room-Hospital-Dashboard)
 
 ## SQL Analysis Projects
 1. [Databank Analysis](https://github.com/mwang-cmn/Data-Bank-8-Days-of-sql-challenge) - 8 days of SQL challenge by Danny Ma
