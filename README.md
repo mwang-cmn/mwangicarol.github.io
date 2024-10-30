@@ -5,6 +5,9 @@
 4. [HR Dashboard](https://github.com/mwang-cmn/HR-Dashboard-and-Notebook)
 5. [Emergency Room - Hospital Dashboard](https://github.com/mwang-cmn/Emergency-Room-Hospital-Dashboard)
 
+# Excel
+1. [Downtime Analysis - Manufacturing ](https://github.com/mwang-cmn/Production-downtime-analysis)
+
 ## SQL Analysis Projects
 1. [Databank Analysis](https://github.com/mwang-cmn/Data-Bank-8-Days-of-sql-challenge) - 8 days of SQL challenge by Danny Ma
 2. [Restuarant Analysis](https://github.com/mwang-cmn/mwangicarol.github.io/tree/main/Restaurant%20Order%20Analysis)
