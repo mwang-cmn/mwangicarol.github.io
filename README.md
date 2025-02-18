@@ -18,5 +18,5 @@
 2. [Customer Segmentation - Cohort Analysis](https://github.com/mwang-cmn/Customer-Segmentation-Cohort-analysis)
 3. [Titanic Survivor Prediction](https://github.com/mwang-cmn/Titanic-Survivor-Prediction-in-Python)
 4. [Prediction of Health Costs](https://github.com/mwang-cmn/Prediction-of-Health-Costs)
-5. [Stock Market - Portfolio Optimization project](https://github.com/mwang-cmn/Stock-Market-Portfolio-Optimization)
+5. [Top 100 Companies in Africa by Revenue](https://github.com/mwang-cmn/Top_100_Companies_Africa/blob/main/Top_100_companies.ipynb)
    
